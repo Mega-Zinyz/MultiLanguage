@@ -16,42 +16,39 @@
             android:text="@string/lokasi"
             android:textColor="#ffffff"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/jalan"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/kodePos"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/negara"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -69,64 +66,59 @@
             android:textColor="#ffffff"
             />
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/nama"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/telp"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/sandi"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="1dp">
+    <TableRow>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tglLahir"
             android:textColor="#ffffff"
-            android:padding="5dp"/>
+            android:padding="10dp"/>
         <EditText
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@android:drawable/dialog_holo_light_frame"/>
     </TableRow>
-    <TableRow
-        android:padding="5dp">
+    <TableRow>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
